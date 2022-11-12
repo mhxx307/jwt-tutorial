@@ -1,11 +1,11 @@
 # jwt-tutorial
 
-<h2 color="blue">git clone https://github.com/mhxx307/jwt-tutorial.git</h2> </br>
-<h3 color="red">Backend</h3> </br>
-- cd backend folder
-- "npm i" to download dependencies
-- npm start
-<h3 color="red">Frontend</h3> </br>
-- cd frontend folder
-- "npm i" to download dependencies
+<h2 style="color: blue">git clone https://github.com/mhxx307/jwt-tutorial.git</h2> </br>
+<h3 style="color: blue">Backend</h3> </br>
+- cd backend folder </br>
+- "npm i" to download dependencies </br>
+- npm start </br>
+<h3 style="color: blue">Frontend</h3> </br>
+- cd frontend folder </br>
+- "npm i" to download dependencies </br>
 - npm start
